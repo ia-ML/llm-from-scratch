@@ -6,6 +6,8 @@ Andrej Karpathy's [nanoGPT](https://github.com/karpathy/nanoGPT) was my first re
 
 This workshop is my attempt to give others that same experience. nanoGPT targets reproducing GPT-2 (124M params) and covers a lot of ground. This project strips it down to the essentials and scales it to a ~10M param model that trains on a laptop in under an hour — designed to be completed in a single workshop session.
 
+* **Video Workshop:** Can be found here [Training an LLM from Scratch, Locally — Angelos Perivolaropoulos, ElevenLabs](https://www.youtube.com/watch?v=UsB70Tf5zcE).
+
 ## What You'll Build
 
 A working GPT model trained from scratch on your MacBook, capable of generating Shakespeare-like text. You'll write:
